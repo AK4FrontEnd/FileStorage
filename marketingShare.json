@@ -1,0 +1,62 @@
+[
+    {
+        "ranking": 1,
+        "name": "台積電",
+        "country": "台灣",
+        "percentage": "53.1"
+    },
+    {
+        "ranking": 2,
+        "name": "三星電子",
+        "country": "南韓",
+        "percentage": "17.3"
+    },
+    {
+        "ranking": 3,
+        "name": "聯電",
+        "country": "台灣",
+        "percentage": "7.2"
+    },
+    {
+        "ranking": 4,
+        "name": "格羅方德",
+        "country": "美國",
+        "percentage": "6.1"
+    },
+    {
+        "ranking": 5,
+        "name": "中芯國際",
+        "country": "中國",
+        "percentage": "5.3"
+    },
+    {
+        "ranking": 6,
+        "name": "華虹半導體",
+        "country": "中國",
+        "percentage": "2.6"
+    },
+    {
+        "ranking": 7,
+        "name": "力積電",
+        "country": "台灣",
+        "percentage": "1.8"
+    },
+    {
+        "ranking": 8,
+        "name": "世界先進",
+        "country": "台灣",
+        "percentage": "1.4"
+    },
+    {
+        "ranking": 9,
+        "name": "高塔半導體",
+        "country": "以色列",
+        "percentage": "1.4"
+    },
+    {
+        "ranking": 10,
+        "name": "東部高科",
+        "country": "南韓",
+        "percentage": "1"
+    }
+]
