@@ -1,0 +1,23 @@
+[
+    {
+        "teacherID": "001",
+        "teacherName": "老師名字",
+        "courseList": [
+            {
+                "courseId": "課程編號",
+                "courseName": "課程名稱",
+                "starLevel": 4.8
+            },
+            {
+                "courseId": "課程編號",
+                "courseName": "課程名稱",
+                "starLevel": 4.8
+            },
+            {
+                "courseId": "課程編號",
+                "courseName": "課程名稱",
+                "starLevel": 4.8
+            }
+        ]
+    }
+]
